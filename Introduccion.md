@@ -4,7 +4,7 @@ Como ya comentamos anteriormente las aplicaciones proporcionan una funcionalidad
 
 Es fundamental el conocer y entender las aplicaciones básicas de Odoo. Como están conformadas y sus objetos fundamentales, para luego poder realizar adaptaciones de estas a las necesidades de la empresa. Estas las realizaremos en la unidad de aprendizaje siguiente. 
 
-![aplicaciones][1]
+![aplicaciones][aplicaciones]
 
 ## OBJETIVO DE ESTE PROYECTO
 Consiste en que los alumnos se familiaricen con las principales aplicaciones que contiene Odoo.
@@ -55,9 +55,6 @@ Una vez tengaís este escenario creado, ya podéis pasar a instalar la aplicaci�
 
 
 
-[empresa]:imagenes/Empresa%20tuercas.jpg
-[empleado]:imagenes/Empleado%20Jose.jpg
-
-
-
-[1]: imagenes/aplicaciones.jpg "diferentes aplicaciones de Odoo"
+[empresa]:imagenes_inventario/Empresa%20tuercas.jpg
+[empleado]:imagenes_inventario/Empleado%20Jose.jpg
+[aplicaciones]: imagenes_inventario/aplicaciones.jpg "diferentes aplicaciones de Odoo"
